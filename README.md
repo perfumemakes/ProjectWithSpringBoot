@@ -6,3 +6,6 @@ Spring Boot 프레임워크 이용 웹개발
 - @rest-controller를 이용해 ajax API 사용
 - @repository를 이용해 jpa 설정없이 CRUD 메소드 생성
 - interface, implements 사용한 service class 생성
+- swagger API 사용하여 메소드 명세
+<br>
+<img src = "/Users/cheesepopcorn/Downloads/projectImage">
