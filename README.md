@@ -8,4 +8,4 @@ Spring Boot 프레임워크 이용 웹개발
 - interface, implements 사용한 service class 생성
 - swagger API 사용하여 메소드 명세
 <br>
-<img src = "/Users/cheesepopcorn/Downloads/projectImage">
+<img src = "https://github.com/perfumemakes/ProjectWithSpringBoot/blob/main/step19_probonoProject/swagger.png">
