@@ -11,7 +11,8 @@ Spring Boot 프레임워크 이용 웹개발
   
 - @repository를 이용해 jpa 설정없이 CRUD 메소드 생성(interface, implements 사용한 service class를 간소화하여 한곳에 통합)<br>
 <img src = "https://github.com/perfumemakes/ProjectWithSpringBoot/blob/main/step19_probonoProject/Screen%20Shot%202022-10-05%20at%207.36.00%20PM.png"> 
-<img src = "https://github.com/perfumemakes/ProjectWithSpringBoot/blob/main/step19_probonoProject/Screen%20Shot%202022-10-05%20at%207.38.31%20PM.png"><br><p> 
+<img src = "https://github.com/perfumemakes/ProjectWithSpringBoot/blob/main/step19_probonoProject/Screen%20Shot%202022-10-05%20at%207.38.31%20PM.png"><br><p>
+  
 - swagger API 사용하여 메소드 명세
 <br>
 <img src = "https://github.com/perfumemakes/ProjectWithSpringBoot/blob/main/step19_probonoProject/swagger.png">
